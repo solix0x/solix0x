@@ -11,23 +11,23 @@ I break systems to understand them, then make them impossible to break.
 
 <p align="center">
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40"/>
+    <img src="https://skillicons.dev/icons?i=discord" width="42"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
+    <img src="https://skillicons.dev/icons?i=twitter" width="42"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/">
-    <img src="https://tryhackme-images.s3.amazonaws.com/site-images/THMlogo.png" width="40"/>
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://app.hackthebox.com/profile/">
-    <img src="https://www.hackthebox.com/images/logo-htb.svg" width="40"/>
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
   </a>
 </p>
 
@@ -43,23 +43,23 @@ I simulate real‑world cyber attacks to:
 - Exploit security flaws  
 - Strengthen systems before attackers reach them  
 
-I don’t rely on scripts only — I understand how systems, networks and applications actually work.
+I don’t rely on scripts only — I understand how systems, networks, and applications actually work.
 
 ---
 
 ## ⚔️ What I specialize in
 
-- Web exploitation (SQLi, XSS, auth bypass, logic flaws)
-- Linux privilege escalation
-- Network enumeration & attacks
-- CTF challenges (Web, OSINT, Crypto, Linux, Forensics)
-- Red‑Team style attack simulation
+- Web exploitation (SQLi, XSS, auth bypass, logic flaws)  
+- Linux privilege escalation  
+- Network enumeration & attacks  
+- CTF challenges (Web, OSINT, Crypto, Linux, Forensics)  
+- Red‑Team style attack simulation  
 
 ---
 
 ## 🛠 Tools I master
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/kali-linux.png" width="40"/>
@@ -74,14 +74,15 @@ I don’t rely on scripts only — I understand how systems, networks and applic
 ## ♟ Side interests
 
 When I’m not hacking:
-- I play **strategy games**
-- I train logical & tactical thinking
-- I explore new tech and security research
+- I play **strategy games**  
+- I train logical & tactical thinking  
+- I explore new tech and security research  
 
 ---
 
 ## 📊 Profile views
-<p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=solix0x&color=blue"/>
 </p>
 
