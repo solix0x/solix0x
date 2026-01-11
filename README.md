@@ -57,6 +57,7 @@ I dive deep into systems, networks, and apps to find vulnerabilities and secure 
 - Red-Team simulations  
 
 ---
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
 ## 🛠 Tools & Tech
 
