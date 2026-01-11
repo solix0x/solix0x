@@ -37,7 +37,7 @@ Focused on real‑world attacks, digital security, and high‑level CTF challeng
 <!-- GIF الرئيسي فقط -->
 <img align="right" width="320" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif"/>
 
----
+
 
 ## 🧠 About Me
 
