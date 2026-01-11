@@ -1,82 +1,120 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you!</h1>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
+  <span style="color:#00e5ff;">Welcome to my Cyber Lab</span>
+</h1>
 
-<p align="left">
-  <a href="https://twitter.com/"><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/"><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/"><img height="30" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://app.hackthebox.com/profile/"><img height="30" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
+<h3 align="center" style="color:#00ff99;">
+Solix — Cybersecurity | Pentesting | CTF Specialist
+</h3>
+
+<p align="center">
+"I don't break systems for chaos — I break them to make them unbreakable." 🛡️
 </p>
-
-<br>
-
-Hi, I'm **Solix**, a Cybersecurity & Pentesting enthusiast 👨🏻‍💻.  
-I focus on **CTF competitions, Ethical Hacking, and Offensive Security**.  
-I love breaking systems to understand them and make them stronger 🛡️.  
-Besides hacking, I enjoy strategy games ♘ and tech tinkering ⚡.
-
-<br>
-
-<!-- GIF على اليمين -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" width="400"/>
-
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)  
-- 🔗 My website: [https://github.com/solix0x](https://github.com/solix0x)
-
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=solix0x" alt="Solix"/> </p>
-
-**Languages & Tools:** <br>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/linux.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/kali-linux.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/bash.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/metasploit.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/nmap.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/burp-suite.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/hack-the-box.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/ctf.png"/></code>
 
 ---
 
-### 📢 Find me elsewhere
+## 🧠 Who am I?
+
+I’m **Solix**, a **Cybersecurity & Ethical Hacking specialist** focused on  
+**Offensive Security, Capture The Flag (CTF), and Penetration Testing**.
+
+I simulate **real‑world attacks** to:
+- Find vulnerabilities  
+- Exploit security flaws  
+- Report & secure systems before attackers do  
+
+This is how modern cyber defense is built.
+
+---
+
+## 💻 What I do
+
+- 🔴 **CTF competitions** (Web, Linux, Privilege Escalation, OSINT, Crypto)
+- 🛡 **Penetration Testing**
+- 🧠 **Vulnerability Analysis**
+- 🔍 **Network & Web Exploitation**
+- ⚔️ **Red Team style attack simulation**
+
+I don't guess.  
+I **scan, enumerate, exploit, and escalate.**
+
+---
+
+## 🛠 Arsenal (My tools)
+
 <p align="left">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://app.hackthebox.com/profile/">
-    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+  <img height="30" src="https://img.icons8.com/color/48/linux.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/kali-linux.png"/>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/bash.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/metasploit.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/nmap.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/burp-suite.png"/>
 </p>
 
-<hr>
+These are not just tools — they are **weapons of knowledge**.
 
-<details>
-<summary>📈 My GitHub Stats</summary>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=solix0x&show_icons=true&theme=gotham" alt="Solix" />
+---
+
+## 🎯 Platforms I dominate
+
+<p>
+<a href="https://tryhackme.com/p/">
+<img src="https://img.shields.io/badge/TryHackMe-Hacker-red?style=for-the-badge&logo=tryhackme"/>
+</a>
+
+<a href="https://app.hackthebox.com/profile/">
+<img src="https://img.shields.io/badge/HackTheBox-Elite-green?style=for-the-badge&logo=hackthebox"/>
+</a>
+
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<img src="https://img.shields.io/badge/Discord-Cyber%20Ops-blue?style=for-the-badge&logo=discord"/>
+</a>
 </p>
-</details>
 
-<br>
+---
 
-<a href="https://github.com/solix0x/CTF-Challenges" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solix0x&repo=CTF-Challenges&theme=dracula" />
+## 🧩 Mindset
+
+I don’t just run tools.  
+I understand:
+- How systems think  
+- How developers make mistakes  
+- How attackers chain vulnerabilities  
+
+That’s what separates **script‑kiddies** from **real hackers**.
+
+---
+
+## ♟️ Side skills
+
+When I'm not hacking:
+- I play **strategy games**
+- I analyze systems
+- I train my mind to think 3 steps ahead  
+
+Hacking is a game of **intelligence, not speed**.
+
+---
+
+## 🔗 Find me
+
+<p>
+<a href="https://github.com/solix0x">
+<img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://github.com/solix0x/Pentest-Labs" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solix0x&repo=Pentest-Labs&theme=dracula" />
+
+<a href="https://linkedin.com/in/">
+<img src="https://img.shields.io/badge/LinkedIn-Cyber%20Security-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<div align="center">
-### Show some ❤️ by starring some of the repositories!
-</div>
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/X-Cyber%20Intel-black?style=for-the-badge&logo=x"/>
+</a>
+</p>
+
+---
+
+<h3 align="center" style="color:#00ff99;">
+⚔️ "If it can be hacked — I will find how." ⚔️
+</h3>
