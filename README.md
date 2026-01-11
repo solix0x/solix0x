@@ -40,7 +40,6 @@ Focused on real‑world attacks, digital security, and high‑level CTF challeng
 
 
 ## 🧠 About Me
-
 I’m **Solix**, a **Cybersecurity & Offensive Security** specialist.  
 Focused on **Ethical Hacking, CTF, and Penetration Testing**.  
 
