@@ -11,7 +11,7 @@ Focused on real‑world attacks, digital security, and high‑level CTF challeng
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://discord.com/users/z6fd">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
