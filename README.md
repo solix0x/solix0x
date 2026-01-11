@@ -57,25 +57,40 @@ I dive deep into systems, networks, and apps to find vulnerabilities and secure 
 - Red-Team simulations  
 
 ---
-## 🛠 Tools & Tech
+## 🛠 Tools & Tech ## 🛠 Cybersecurity Stack
 
-<div style="display:flex; justify-content:center; align-items:center; gap:15px; flex-wrap:wrap;">
-  <!-- OS & Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://img.icons8.com/color/48/kali-linux.png" width="40"/>
+<div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
 
-  <!-- Programming & Scripting -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" width="45"/>
+  <!-- OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
+  <img src="https://img.icons8.com/color/48/kali-linux.png" width="42"/>
+  <img src="https://img.icons8.com/color/48/parrot-security.png" width="42"/>
 
-  <!-- Pen Testing Tools -->
-  <img src="https://img.shields.io/badge/Metasploit-FF2D00?style=flat&logo=metasploit&logoColor=white" width="45"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF8800?style=flat&logo=burpsuite&logoColor=white" width="45"/>
-  <img src="https://img.shields.io/badge/Nmap-CC0000?style=flat&logo=nmap&logoColor=white" width="45"/>
+  <!-- Programming -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
 
-  <!-- CTF & Labs -->
-  <img src="https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=hackthebox&logoColor=9FEF00" width="45"/>
-  <img src="https://img.shields.io/badge/CTF-0A0A0A?style=flat&logo=ctf&logoColor=white" width="45"/>
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+
+  <!-- Hacking Tools -->
+  <img src="https://img.shields.io/badge/Nmap-CC0000?style=flat&logo=nmap&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Metasploit-FF2D00?style=flat&logo=metasploit&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF8800?style=flat&logo=burpsuite&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/JohnTheRipper-black?style=flat&logo=hackthebox&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Hashcat-3B3B3B?style=flat&logo=hashcat&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Aircrack--ng-blue?style=flat&logo=aircrack-ng&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/SQLMap-red?style=flat&logo=databricks&logoColor=white" height="32"/>
+
+  <!-- Platforms -->
+  <img src="https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=hackthebox&logoColor=9FEF00" height="32"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/CTFtime-000000?style=flat&logo=ctftime&logoColor=white" height="32"/>
+
 </div>
 
 
