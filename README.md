@@ -67,14 +67,6 @@ I dive deep into systems, networks, and apps to find vulnerabilities and secure 
   <img src="https://img.icons8.com/color/48/kali-linux.png" width="40"/>
 </p>
 
-<p align="center">
-## 🛠 Tools & Tech
-
-<p align="center">
-  <b>OS & Platforms:</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://img.shields.io/badge/Kali-Linux-557CFF?style=flat&logo=kali-linux&logoColor=white" width="45"/>
-</p>
 
 <p align="center">
   <b>Programming & Scripting:</b><br>
