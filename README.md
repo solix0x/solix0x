@@ -1,112 +1,88 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="28"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hey, nice to see you
 </h1>
 
 <h3 align="center">Solix | Cybersecurity • Pentesting • CTF</h3>
 
 <p align="center">
-I break systems to understand them, then make them impossible to break.
+I break systems to understand them — then I make them impossible to break.
 </p>
 
 <p align="center">
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://skillicons.dev/icons?i=discord" width="42"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/">
-    <img src="https://skillicons.dev/icons?i=twitter" width="42"/>
+  <a href="https://twitter.com/YOUR_X">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  <a href="https://tryhackme.com/p/YOUR_THM">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://app.hackthebox.com/profile/">
-    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+  <a href="https://app.hackthebox.com/profile/YOUR_HTB">
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=hackthebox&logoColor=9FEF00"/>
   </a>
 </p>
 
----
+<br>
+
+<img align="right" width="380" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif"/>
 
 ## 🧠 About Me
 
-I am **Solix**, a **Cybersecurity & Offensive Security specialist** focused on  
-**CTF competitions, Ethical Hacking, and Penetration Testing**.
+I’m **Solix**, a **Cybersecurity & Offensive Security** enthusiast focused on:
 
-I simulate real‑world cyber attacks to:
-- Discover vulnerabilities  
-- Exploit security flaws  
-- Strengthen systems before attackers reach them  
+- Ethical Hacking  
+- CTF competitions  
+- Penetration Testing  
+- Real‑world attack simulation  
 
-I don’t rely on scripts only — I understand how systems, networks, and applications actually work.
+I don’t just run tools — I understand **how systems, networks and web apps actually break**.
 
 ---
 
-## ⚔️ What I specialize in
+## ⚔️ What I Do
 
 - Web exploitation (SQLi, XSS, auth bypass, logic flaws)  
 - Linux privilege escalation  
 - Network enumeration & attacks  
-- CTF challenges (Web, OSINT, Crypto, Linux, Forensics)  
-- Red‑Team style attack simulation  
+- OSINT & digital forensics  
+- Red‑team style attack simulation  
 
 ---
 
-## 🛠 Tools I master
+## 🛠 Tools & Tech
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/kali-linux.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/bash.png" width="40"/>
   <img src="https://img.icons8.com/color/48/nmap.png" width="40"/>
   <img src="https://img.icons8.com/color/48/metasploit.png" width="40"/>
   <img src="https://img.icons8.com/color/48/burp-suite.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/hack-the-box.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/ctf.png" width="40"/>
 </p>
 
 ---
 
-## ♟ Side interests
+## ♟ Side Interests
 
 When I’m not hacking:
-- I play **strategy games**  
-- I train logical & tactical thinking  
-- I explore new tech and security research  
+
+- I play **strategy & tactical games**  
+- I train my logical thinking  
+- I explore new exploits & security research  
 
 ---
 
-## 📊 Profile views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=solix0x&color=blue"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solix0x&show_icons=true&theme=gotham"/>
-</p>
-
----
-
-## 🚀 Projects
-
-<p align="center">
-  <a href="https://github.com/solix0x/CTF-Challenges">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solix0x&repo=CTF-Challenges&theme=dracula"/>
-  </a>
-  <a href="https://github.com/solix0x/Pentest-Labs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solix0x&repo=Pentest-Labs&theme=dracula"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">⭐ Star my repos if you respect the grind</h3>
+<h3 align="center">🛡️ Break • Learn • Secure</h3>
+<h4 align="center">Solix</h4>
