@@ -1,22 +1,23 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you!</h1>
 
 <p align="left">
-<a href="https://twitter.com/"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img height="30" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://tryhackme.com/p/"><img height="30" src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://app.hackthebox.com/profile/"><img height="30" src="https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=hackthebox&logoColor=9FEF00"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/"><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/"><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/"><img height="30" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://app.hackthebox.com/profile/"><img height="30" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
 </p>
 
 <br>
 
 Hi, I'm **Solix**, a Cybersecurity & Pentesting enthusiast 👨🏻‍💻.  
 I focus on **CTF competitions, Ethical Hacking, and Offensive Security**.  
-I love breaking systems to understand them and make them stronger. 🛡️  
-Besides hacking, I enjoy strategy games ♘ and tech tinkering ⚡.  
+I love breaking systems to understand them and make them stronger 🛡️.  
+Besides hacking, I enjoy strategy games ♘ and tech tinkering ⚡.
 
 <br>
 
+<!-- GIF على اليمين -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" width="400"/>
 
 - 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)  
@@ -26,7 +27,7 @@ Besides hacking, I enjoy strategy games ♘ and tech tinkering ⚡.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solix0x" alt="Solix"/> </p>
 
-**Languages and Tools:** <br>
+**Languages & Tools:** <br>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/linux.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/kali-linux.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
@@ -62,7 +63,9 @@ Besides hacking, I enjoy strategy games ♘ and tech tinkering ⚡.
 
 <details>
 <summary>📈 My GitHub Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=solix0x&show_icons=true&theme=gotham" alt="Solix" /> </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=solix0x&show_icons=true&theme=gotham" alt="Solix" />
+</p>
 </details>
 
 <br>
