@@ -57,34 +57,27 @@ I dive deep into systems, networks, and apps to find vulnerabilities and secure 
 - Red-Team simulations  
 
 ---
-
-## 🛠 Tools & Tech
 ## 🛠 Tools & Tech
 
-<b>OS & Platforms:</b>
-<div style="display:flex; gap:10px; justify-content:center; align-items:center;">
+<div style="display:flex; justify-content:center; align-items:center; gap:15px; flex-wrap:wrap;">
+  <!-- OS & Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/kali-linux.png" width="40"/>
-</div>
 
-<b>Programming & Scripting:</b>
-<div style="display:flex; gap:10px; justify-content:center; align-items:center;">
+  <!-- Programming & Scripting -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" width="45"/>
-</div>
 
-<b>Pen Testing Tools:</b>
-<div style="display:flex; gap:10px; justify-content:center; align-items:center;">
+  <!-- Pen Testing Tools -->
   <img src="https://img.shields.io/badge/Metasploit-FF2D00?style=flat&logo=metasploit&logoColor=white" width="45"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF8800?style=flat&logo=burpsuite&logoColor=white" width="45"/>
   <img src="https://img.shields.io/badge/Nmap-CC0000?style=flat&logo=nmap&logoColor=white" width="45"/>
-</div>
 
-<b>CTF & Labs:</b>
-<div style="display:flex; gap:10px; justify-content:center; align-items:center;">
+  <!-- CTF & Labs -->
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=hackthebox&logoColor=9FEF00" width="45"/>
   <img src="https://img.shields.io/badge/CTF-0A0A0A?style=flat&logo=ctf&logoColor=white" width="45"/>
 </div>
+
 
 ## ♟ Side Interests
 
