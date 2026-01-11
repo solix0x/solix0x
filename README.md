@@ -82,10 +82,9 @@ I dive deep into systems, networks, and apps to find vulnerabilities and secure 
 
 <p align="center">
   <b>CTF & Labs:</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackthebox/hackthebox-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ctf/ctf-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=hackthebox&logoColor=9FEF00" width="45"/>
+  <img src="https://img.shields.io/badge/CTF-0A0A0A?style=flat&logo=ctf&logoColor=white" width="45"/>
 </p>
----
 
 ## ♟ Side Interests
 
